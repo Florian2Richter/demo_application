@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: demo-application
+Version: 0.1.0
+Summary: A demo calculator application using MVC pattern
+Requires-Python: >=3.6
+License-File: LICENSE

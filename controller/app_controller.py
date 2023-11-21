@@ -1,7 +1,7 @@
 # controller/calculator_controller.py
 
-from model.calculator_model import CalculatorModel
-from view.calculator_view import CalculatorView
+from model import CalculatorModel
+from view import CalculatorView
 
 class CalculatorController:
     def __init__(self, view, model):
