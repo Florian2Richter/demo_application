@@ -1,7 +1,7 @@
 # controller/calculator_controller.py
 
-from model import CalculatorModel
-from view import CalculatorView
+from model.business_logic import CalculatorModel
+from view.main_window import CalculatorView
 
 class CalculatorController:
     def __init__(self, view, model):
